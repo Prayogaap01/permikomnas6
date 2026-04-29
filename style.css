@@ -11,7 +11,7 @@ body {
 /* HERO */
 .hero {
   height: 100vh;
-  background: url('https://images.unsplash.com/photo-1526378722484-bd91ca387e72') center/cover;
+  background: url("#") center/cover;
   position: relative;
 }
 
